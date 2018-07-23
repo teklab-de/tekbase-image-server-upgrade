@@ -36,4 +36,4 @@ Make a backup before using this script.
 After the upgrade move the remaining files to the correct folders.
 
 ## License
-Copyright (c) TekLab.de. Code released under the [GPL v3.0 License](http://https://gitgem.com/TekLab/tekbase-imageserver-upgrade/src/branch/master/LICENSE).
+Copyright (c) TekLab.de. Code released under the [GPL v3.0 License](http://https://gitgem.com/TekLab/tekbase-image-server-upgrade/src/branch/master/LICENSE).
