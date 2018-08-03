@@ -4,7 +4,6 @@
 This script extends the image server and adds the new structures. To use the advanced image server you have to edit config.php from your TekBASE. More informations about TekBASE at [TekLab.de](https://teklab.de)
 
 ## Installation
-
 ```
 cd /home
 git clone https://gitgem.com/TekLab/tekbase-image-server-upgrade.git
@@ -20,7 +19,6 @@ $adv_imageserver = 1;
 ```
 
 ## Game list
-
 Create a games.lst with the game shortcuts and the filename. Both separated with ; and one game per line.
 ```
 game;filename
