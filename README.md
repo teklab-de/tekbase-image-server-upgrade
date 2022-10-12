@@ -2,7 +2,7 @@
 
 ![TekBASE 8.X](https://img.shields.io/badge/TekBASE-8.X-green.svg) ![License GNU AGPLv3](https://img.shields.io/badge/License-GNU_AGPLv3-blue.svg)
 
-This script extends the image server and adds the new structures. To use the advanced image server you have to edit config.php from your TekBASE. TekBASE is a server management software for clans, communities and service providers with an online shop, billing system, and reminder system. Free support since 2005. More information about TekBASE at [TekLab.de](https://teklab.de)
+This script extends the image server and adds the new structures. To use the advanced image server you have to edit config.php from your TekBASE. TekBASE is a server management software for clans, communities and service providers with an online shop, billing system, and reminder system. Free support since 2015. More information about TekBASE at [TekLab.de](https://teklab.de)
 
 ## Installation
 ```
